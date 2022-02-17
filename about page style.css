@@ -1,0 +1,36 @@
+*{
+    background-color: black;
+}
+
+
+.about{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.about{
+    color: turquoise;
+    text-align: center;
+    font-style: bold;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#aboutparagraph{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#aboutparagraph{
+    color: white;
+    text-align: center;
+    font-style: bold;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+}

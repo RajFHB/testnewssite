@@ -5,14 +5,14 @@
 
 .about{
     position: absolute;
-    top: 20%;
+    top: 15%;
     left: 50%;
     transform: translate(-50%,-50%);
 }
 
 .about{
-    color: turquoise;
-    text-align: center;
+    color: orange;
+    text-align: left;
     font-style: bold;
     font-family: sans-serif;
     font-weight: bolder;
@@ -28,7 +28,7 @@
 
 #aboutparagraph{
     color: white;
-    text-align: center;
+    text-align: left;
     font-style: bold;
     font-family: sans-serif;
     font-weight: bolder;

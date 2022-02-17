@@ -1,0 +1,19 @@
+ *{
+     background-color: black;
+ }
+ 
+ #info{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+ }
+
+ #info{
+    color: orange;
+    text-align: left;
+    font-style: bold;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+}
